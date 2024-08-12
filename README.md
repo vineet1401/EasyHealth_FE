@@ -88,13 +88,13 @@ Replace **your-username** with your GitHub username and **your-repo** with the n
 
 <li>Add your own environment variables to these both files.</li>
 
-<li>To run the backend, open a new terminal and execute:</li>
+<li>To run the backend, goto to server directory, open a new terminal and execute:</li>
 
 ```
 npm start
 ```
 
-<li>To run the frontend, open a new terminal and run 'cd client/' to go to client directory and execute: </li>
+<li>To run the frontend, goto to client directory, open a new terminal and execute: </li>
 
 ```
 npm start
