@@ -28,7 +28,7 @@ For aspiring doctors, our platform offers a straightforward application process.
 
 ### 🌐 Link:
 
-<h4> Live Site: https://healthbooker.onrender.com/ </h4>
+<h4> Live Site: https://easy-health-sigma.vercel.app/ </h4>
 
 <br>
 
