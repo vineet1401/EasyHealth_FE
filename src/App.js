@@ -17,7 +17,6 @@ const ApplyDoctor = lazy(() => import("./pages/ApplyDoctor"));
 const Error = lazy(() => import("./pages/Error"));
 
 function App() {
-  console.log(process.env.REACT_APP_SERVER_DOMAIN)
   return (
     <Router>
       <Toaster />

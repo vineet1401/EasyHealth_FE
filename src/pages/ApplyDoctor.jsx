@@ -7,7 +7,6 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
 axios.defaults.baseURL = process.env.REACT_APP_SERVER_DOMAIN;
-console.log(process.env.REACT_APP_SERVER_DOMAIN)
 const ApplyDoctor = () => {
   const navigate = useNavigate();
   const [formDetails, setFormDetails] = useState({

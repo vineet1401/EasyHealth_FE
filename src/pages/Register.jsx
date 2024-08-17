@@ -52,7 +52,6 @@ function Register() {
 
       if (loading) return;
       if (file === "") {
-        console.log("Please select File");
         return;
       };
       
